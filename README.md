@@ -1,4 +1,4 @@
-# Readme File - Docker Compose Setup with Ollama AI Model and Jupyter Notebook Environment 
+# Docker Compose Setup with Ollama AI Model and Jupyter Notebook Environment 
 
 This repository provides an integrated setup that allows you to run a containerized version of both an advanced Artificial Intelligence model named `Ollama` as well as the widely-used data analysis tool, Jupyter Notebook. This configuration is particularly optimized for environments where GPU acceleration (if available) can be leveraged through NVIDIA CUDA technology enhancing performance significantly while interacting with Ollama models directly within a notebook interface.
 
